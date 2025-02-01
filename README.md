@@ -1,4 +1,4 @@
-- 👋 **I am @ItachiPrime**, a shadow in the world of code.  
+- 👋 **I am Harshith**, a shadow in the world of code.  
 - 👀 **I seek knowledge**, much like the Uchiha, with a focus on perfecting my craft and mastering new techniques.  
 - 🌱 **I am always learning**, honing my skills in web development, and walking the path of improvement.  
 - 💞️ **I wish to collaborate**, but only with those who seek true mastery in their work.  
