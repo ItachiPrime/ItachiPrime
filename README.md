@@ -8,4 +8,4 @@
 
 ## Certifications
 
-![Certified Data Scientist](https://github.com/ItachiPrime/ItachiPrime/blob/20340d3d323f4a3b69e9d0732c9eb962772e55ea/Responsive%20Webdesign.png)
+![Certified Data Scientist](Responsive Webdesign.png)
