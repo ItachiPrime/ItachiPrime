@@ -8,4 +8,4 @@
 
 ## Certifications
 
-![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b282beeab09219c95bf8d2c2c4c5ee1d1dd0d5b0/Responsive%20Webdesign.png))
+![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b282beeab09219c95bf8d2c2c4c5ee1d1dd0d5b0/Responsive%20Webdesign.png)
