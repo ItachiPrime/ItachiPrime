@@ -8,4 +8,4 @@
 
 ## Certifications
 
-  ![Certified Data Scientist][(https://github.com/ItachiPrime/ItachiPrime/blob/8ae4ff62d9905ce402f5e627f9d02190af289780/Freecodecamp%20Certification_page-0001.jpg))](https://github.com/ItachiPrime/ItachiPrime/blob/20340d3d323f4a3b69e9d0732c9eb962772e55ea/Freecodecamp%20Certificate.jpg)
+(https://github.com/ItachiPrime/ItachiPrime/blob/20340d3d323f4a3b69e9d0732c9eb962772e55ea/Freecodecamp%20Certificate.jpg)
