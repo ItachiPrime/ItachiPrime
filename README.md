@@ -4,4 +4,8 @@
 - 💞️ **I wish to collaborate**, but only with those who seek true mastery in their work.  
 - 📫 **To reach me**: Through the quiet, still night, email me at **harshith.ituc@gmail.com**.  
 - 😄 **Pronouns**: He/Him—like the Uchiha, my actions speak louder than words.  
-- ⚡ **Fun fact**: Like Itachi’s Sharingan, I see code in ways others do not, and my journey is ever-evolving.  
+- ⚡ **Fun fact**: Like Itachi’s Sharingan, I see code in ways others do not, and my journey is ever-evolving.
+
+## Certifications
+
+  ![Certified Data Scientist](https://github.com/yourusername/yourrepo/blob/main/images/cert1.png?raw=true)
