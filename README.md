@@ -7,4 +7,4 @@
 
 ## Certifications
 
-[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b282beeab09219c95bf8d2c2c4c5ee1d1dd0d5b0/WebDesign.jpg)](https://www.freecodecamp.org/certification/Harshith_240/responsive-web-design)
+[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG)](https://www.freecodecamp.org/certification/Harshith_240/responsive-web-design)
