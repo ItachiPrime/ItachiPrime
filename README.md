@@ -7,7 +7,7 @@
 
 ## My Projects
 
-- Full Stack E-commerce Store - Fidgetsy[fidgetsy.shop]
+- Full Stack E-commerce Store - <a href='fidgetsy.shop'>Fidgetsy</a>
 - Saas Landing Page - Cueclip[cueclip.netlify.app]
 - Profit Calculator for Stocks - Procalci[procalci.netlify.app]
 - Youtube Clone - Primetube[primetube1.netlify.app]
