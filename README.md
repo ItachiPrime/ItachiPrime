@@ -7,10 +7,9 @@
 
 ## My Projects
 
-- Full Stack E-commerce Store - [Fidgetsy](https://fidgetsy.shop) (will open in a new tab)
-- Saas Landing Page - Cueclip[cueclip.netlify.app]
-- Profit Calculator for Stocks - Procalci[procalci.netlify.app]
-- Youtube Clone - Primetube[primetube1.netlify.app]
+- Full Stack E-commerce Store - [Fidgetsy](https://fidgetsy.shop)
+- Saas Landing Page - [Cueclip](https://cueclip.netlify.app)
+- Profit Calculator for Stocks - [Procalci](https://procalci.netlify.app)
 
 ## Certifications
 
