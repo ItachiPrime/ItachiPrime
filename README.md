@@ -13,4 +13,7 @@
 
 ## Certifications
 
-[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG)](https://www.freecodecamp.org/certification/Harshith_240/responsive-web-design)
+[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG)](https://www.freecodecamp.org/certification/Harshith_C/responsive-web-design)
+
+[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/DSA.JPG)](https://www.freecodecamp.org/certification/Harshith_C/javascript-algorithms-and-data-structures)
+
