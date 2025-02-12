@@ -15,5 +15,5 @@
 
 [![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG)](https://www.freecodecamp.org/certification/Harshith_C/responsive-web-design)
 
-[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/DSA.JPG)](https://www.freecodecamp.org/certification/Harshith_C/javascript-algorithms-and-data-structures)
+[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/bf354b8eee2fe69835001b6bc6405990506d53b8/DSA.JPG)](https://www.freecodecamp.org/certification/Harshith_C/javascript-algorithms-and-data-structures)
 
