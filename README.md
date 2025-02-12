@@ -10,6 +10,7 @@
 - Full Stack E-commerce Store - [Fidgetsy](https://fidgetsy.shop)
 - Saas Landing Page - [Cueclip](https://cueclip.netlify.app)
 - Profit Calculator for Stocks - [Procalci](https://procalci.netlify.app)
+- Course Landing Page - [SmartBrain](https://landingpage-smartbrain.netlify.app/)
 
 ## Certifications
 
