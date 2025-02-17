@@ -53,7 +53,7 @@ When I’m not coding, I’m diving into the latest tech trends, learning new pr
 
 ### 📈 **GitHub Stats**
 
-![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
