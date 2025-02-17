@@ -18,7 +18,7 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 I specialize in:
 
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Firebase
+- **Backend**: Firebase
 - **Tools**: Git, Figma, VS Code, Firebase
 
 ---
