@@ -45,24 +45,6 @@ I’m always open to new ideas, collaborations, and opportunities to grow. Feel 
 
 ---
 
-### 🏆 **Certifications**
-
-<hr> <!-- Horizontal rule for separation -->
-
-[![Responsive Web Design](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG?raw=true)](https://www.freecodecamp.org/certification/Harshith_C/responsive-web-design)
-
-<hr> <!-- Horizontal rule for separation -->
-
-[![JavaScript Algorithms & Data Structures](https://github.com/ItachiPrime/ItachiPrime/blob/bf354b8eee2fe69835001b6bc6405990506d53b8/DSA.JPG?raw=true)](https://www.freecodecamp.org/certification/Harshith_C/javascript-algorithms-and-data-structures)
-
-<hr> <!-- Horizontal rule for separation -->
-
-[![React JS](https://github.com/ItachiPrime/ItachiPrime/blob/87853eddf0846cfa9c59343fc358a2597ba2544a/Udemy.jpg?raw=true)](https://www.udemy.com/certificate/UC-e08c5521-f110-43ac-b596-10bf3b7ec886/)
-
-<hr> <!-- Horizontal rule for separation -->
-
----
-
 ### ⚡ **Fun Fact**
 
 When I’m not coding, I’m diving into the latest tech trends, learning new programming languages, and experimenting with different tech stacks. I believe in the power of learning and growing together, so feel free to reach out!
