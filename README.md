@@ -18,3 +18,6 @@
 
 [![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/bf354b8eee2fe69835001b6bc6405990506d53b8/DSA.JPG)](https://www.freecodecamp.org/certification/Harshith_C/javascript-algorithms-and-data-structures)
 
+[![Responsive Webgesign](https://github.com/ItachiPrime/ItachiPrime/blob/bf354b8eee2fe69835001b6bc6405990506d53b8/DSA.JPG)](https://www.freecodecamp.org/certification/Harshith_C/javascript-algorithms-and-data-structures)
+
+
