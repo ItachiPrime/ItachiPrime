@@ -20,7 +20,6 @@ I specialize in:
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Firebase
 - **Tools**: Git, Figma, VS Code
-- **DevOps**: Netlify
 
 ---
 
