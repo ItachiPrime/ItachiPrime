@@ -17,10 +17,10 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 **Tech Stack**  
 I specialize in:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue
-- **Backend**: Node.js, Express, MongoDB
-- **Tools**: Git, Docker, Figma, VS Code
-- **DevOps**: CI/CD, AWS, Netlify
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Firebase
+- **Tools**: Git, Figma, VS Code
+- **DevOps**: Netlify
 
 ---
 
@@ -40,8 +40,8 @@ Here are some of the projects I’m proud of:
 I’m always open to new ideas, collaborations, and opportunities to grow. Feel free to get in touch with me:
 
 - ✉️ **Email**: [harshith.ituc@gmail.com](mailto:harshith.ituc@gmail.com)
-- 🌐 **LinkedIn**: [Harshith LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 💼 **GitHub**: [Harshith GitHub](https://github.com/YourGitHubUsername)
+- 📱 **Whatsapp**: [Harshith Whatsapp](https://wa.me/6363492523)
+
 
 ---
 
