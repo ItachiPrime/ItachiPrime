@@ -40,6 +40,7 @@ I’m always open to new ideas, collaborations, and opportunities to grow. Feel 
 
 - ✉️ **Email**: [harshith.ituc@gmail.com](mailto:harshith.ituc@gmail.com)
 - 📱 **Whatsapp**: [+916363492523](https://wa.me/6363492523)
+- 💬 **Discord**: [Click here to chat](https://discord.com/users/techno1016)
 
 
 ---
