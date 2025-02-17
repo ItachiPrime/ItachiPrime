@@ -14,8 +14,6 @@
 
 ## 🎓 **Certifications**
 
-I’ve earned certifications that reflect my commitment to improving my craft:
-
 <hr>
 
 [![Responsive Web Design](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG?raw=true)](https://www.freecodecamp.org/certification/Harshith_C/responsive-web-design) 
