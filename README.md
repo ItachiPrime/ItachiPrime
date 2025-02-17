@@ -1,28 +1,77 @@
-- 👋 **I am Harshith**, a shadow in the world of code.  
-- 👀 **I seek knowledge**, much like the Uchiha, with a focus on perfecting my craft and mastering new techniques.  
-- 🌱 **I am always learning**, honing my skills in web development, and walking the path of improvement.  
-- 🤝 **I wish to collaborate**, but only with those who seek true mastery in their work.  
-- 📫 **To reach me**: Through the quiet, still night, email me at **harshith.ituc@gmail.com**.    
-- ⚡ **Fun fact**: Like Itachi’s Sharingan, I see code in ways others do not, and my journey is ever-evolving.
+# 👋 **Hello, I'm Harshith**  
 
-## My Projects
+Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
 
-- Full Stack E-commerce Store - [Fidgetsy](https://fidgetsy.shop)
-- Saas Landing Page - [Cueclip](https://cueclip.netlify.app)
-- Profit Calculator for Stocks - [Procalci](https://procalci.netlify.app)
-- Course Landing Page - [SmartBrain](https://landingpage-smartbrain.netlify.app/)
+---
 
-## 🎓 **Certifications**
+### 🔍 **What I Do**
 
-<hr>
+- 💻 **Web Development**: From crafting beautiful user interfaces to building scalable backends, I bring ideas to life.
+- 🧠 **Continuous Learner**: Staying curious is at the heart of my work. I constantly evolve and adapt to new challenges.
+- 🎯 **Problem Solving**: Every project is an opportunity to improve and build impactful solutions.
 
-[![Responsive Web Design](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG?raw=true)](https://www.freecodecamp.org/certification/Harshith_C/responsive-web-design) 
+---
 
-<hr>
+### 🚀 **Skills & Expertise**
+
+**Tech Stack**  
+I specialize in:
+
+- **Frontend**: HTML, CSS, JavaScript, React, Vue
+- **Backend**: Node.js, Express, MongoDB
+- **Tools**: Git, Docker, Figma, VS Code
+- **DevOps**: CI/CD, AWS, Netlify
+
+---
+
+### 💼 **Projects**
+
+Here are some of the projects I’m proud of:
+
+- 🛍️ **[Fidgetsy](https://fidgetsy.shop)**: Full-stack E-commerce Store
+- 🎥 **[Cueclip](https://cueclip.netlify.app)**: SaaS Landing Page
+- 📊 **[Procalci](https://procalci.netlify.app)**: Profit Calculator for Stocks
+- 📚 **[SmartBrain](https://landingpage-smartbrain.netlify.app/)**: Course Landing Page
+
+---
+
+### 📫 **Let’s Connect**
+
+I’m always open to new ideas, collaborations, and opportunities to grow. Feel free to get in touch with me:
+
+- ✉️ **Email**: [harshith.ituc@gmail.com](mailto:harshith.ituc@gmail.com)
+- 🌐 **LinkedIn**: [Harshith LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 💼 **GitHub**: [Harshith GitHub](https://github.com/YourGitHubUsername)
+
+---
+
+### 🏆 **Certifications**
+
+<hr> <!-- Horizontal rule for separation -->
+
+[![Responsive Web Design](https://github.com/ItachiPrime/ItachiPrime/blob/b12dd3afc723b61848dee8b182162d6b051aaef6/WebDesign.JPG?raw=true)](https://www.freecodecamp.org/certification/Harshith_C/responsive-web-design)
+
+<hr> <!-- Horizontal rule for separation -->
 
 [![JavaScript Algorithms & Data Structures](https://github.com/ItachiPrime/ItachiPrime/blob/bf354b8eee2fe69835001b6bc6405990506d53b8/DSA.JPG?raw=true)](https://www.freecodecamp.org/certification/Harshith_C/javascript-algorithms-and-data-structures)
 
-<hr> 
+<hr> <!-- Horizontal rule for separation -->
 
 [![React JS](https://github.com/ItachiPrime/ItachiPrime/blob/87853eddf0846cfa9c59343fc358a2597ba2544a/Udemy.jpg?raw=true)](https://www.udemy.com/certificate/UC-e08c5521-f110-43ac-b596-10bf3b7ec886/)
+
+<hr> <!-- Horizontal rule for separation -->
+
+---
+
+### ⚡ **Fun Fact**
+
+When I’m not coding, I’m diving into the latest tech trends, learning new programming languages, and experimenting with different tech stacks. I believe in the power of learning and growing together, so feel free to reach out!
+
+---
+
+### 📈 **GitHub Stats**
+
+![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
 
