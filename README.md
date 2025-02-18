@@ -30,8 +30,6 @@ Here are some of the projects I’m proud of:
 - 🛍️ **[Fidgetsy](https://fidgetsy.shop)**: Full-stack E-commerce Store
 - 🎥 **[Cueclip](https://cueclip.netlify.app)**: SaaS Landing Page
 - 📊 **[Procalci](https://procalci.netlify.app)**: Profit Calculator for Stocks
-- 📚 **[SmartBrain](https://landingpage-smartbrain.netlify.app/)**: Course Landing Page
-
 ---
 
 ### 📫 **Let’s Connect**
