@@ -1,10 +1,10 @@
-## 💀  I'm Harshith ###  
+### 💀  I'm Harshith ###  
 
 Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
 
 ---
 
-## 🔍 **What I Do**
+### 🔍 **What I Do**
 
 - 💻 **Web Development**: From crafting beautiful user interfaces to building scalable backends, I bring ideas to life.
 - 🧠 **Continuous Learner**: Staying curious is at the heart of my work. I constantly evolve and adapt to new challenges.
@@ -12,25 +12,26 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 ---
 
-## 🌟 **Tech Stack**
+### 🚀 **Skills & Expertise**
 
-### **Frontend**
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=20232A)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=20232A)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=20232A)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)](https://reactjs.org/)
+**Frontend**
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
----
+**Backend**
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-### **Backend**
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=20232A)](https://firebase.google.com/)
+**Tools**
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
----
 
-### **Tools**
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=20232A)](https://git-scm.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=20232A)](https://www.figma.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=20232A)](https://code.visualstudio.com/)
+
 ---
 
 ### 💼 **Projects**
@@ -64,4 +65,3 @@ When I’m not coding, I’m diving into the latest tech trends, learning new pr
 ![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
-
