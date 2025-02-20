@@ -30,7 +30,7 @@ I specialize in:
 
 <p style="font-size: 18px;"><strong>Tools:</strong> 
   Git <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="30">, 
-  Figma <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="30">, 
+  Figma <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20">, 
   VS Code <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30">
 </p>
 
