@@ -1,10 +1,9 @@
-## **💀  I'm Harshith** 
--
+### **💀  I'm Harshith** 
 Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
 
 ---
 
-## 🔍 **What I Do**
+### 🔍 **What I Do**
 
 - 💻 **Web Development**: From crafting beautiful user interfaces to building scalable backends, I bring ideas to life.
 - 🧠 **Continuous Learner**: Staying curious is at the heart of my work. I constantly evolve and adapt to new challenges.
@@ -12,7 +11,7 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 ---
 
-## 🚀 **Skills & Expertise**
+### 🚀 **Skills & Expertise**
 
 ### **Frontend** 
 
@@ -40,7 +39,7 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 ---
 
-## 💼 **Projects**
+### 💼 **Projects**
 
 Here are some of the projects I’m proud of:
 
@@ -49,7 +48,7 @@ Here are some of the projects I’m proud of:
 - 📊 **[Procalci](https://procalci.netlify.app)**: Profit Calculator for Stocks
 ---
 
-## 📫 **Let’s Connect**
+### 📫 **Let’s Connect**
 
 I’m always open to new ideas, collaborations, and opportunities to grow. Feel free to get in touch with me:
 
@@ -60,13 +59,13 @@ I’m always open to new ideas, collaborations, and opportunities to grow. Feel 
 
 ---
 
-## ⚡ **Fun Fact**
+### ⚡ **Fun Fact**
 
 When I’m not coding, I’m diving into the latest tech trends, learning new programming languages, and experimenting with different tech stacks. I believe in the power of learning and growing together, so feel free to reach out!
 
 ---
 
-## 📈 **GitHub Stats**
+### 📈 **GitHub Stats**
 
 ![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
