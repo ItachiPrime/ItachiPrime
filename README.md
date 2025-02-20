@@ -14,7 +14,6 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 ### 🚀 **Skills & Expertise**
 
-# My Web Development Tech Stack 🚀
 
 
 ---
