@@ -43,7 +43,7 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 ### 💼 **Projects**
 
-Here are some of the projects I’m proud of:
+Here are some of my projects:
 
 - 🛍️ **[Fidgetsy](https://fidgetsy.shop)**: Full-stack E-commerce Store
 - 🎥 **[Cueclip](https://cueclip.netlify.app)**: SaaS Landing Page
