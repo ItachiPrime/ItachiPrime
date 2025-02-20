@@ -1,3 +1,5 @@
+![Black Div](https://via.placeholder.com/1000x100.png/000000/000000)
+
 ### **💀  I'm Harshith** 
 Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
 
