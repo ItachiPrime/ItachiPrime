@@ -1,3 +1,5 @@
+<div style="width:100%; height:100px; background-color:black;"></div>
+
 ### **💀  I'm Harshith** 
 Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
 
@@ -77,3 +79,5 @@ When I’m not coding, I’m diving into the latest tech trends, learning new pr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItachiPrime/ItachiPrime/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ItachiPrime/ItachiPrime/output/github-snake.svg" />
 </picture>
+
+<div></div>
