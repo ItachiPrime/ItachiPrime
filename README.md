@@ -26,6 +26,7 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 **Backend**
 --
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 **Tools**
