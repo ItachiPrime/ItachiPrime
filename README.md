@@ -25,7 +25,7 @@ I specialize in:
 </p>
 
 <p style="font-size: 18px;"><strong>Backend:</strong> 
-  Firebase <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" width="30">
+  Firebase <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" width="30">
 </p>
 
 <p style="font-size: 18px;"><strong>Tools:</strong> 
