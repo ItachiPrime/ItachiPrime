@@ -18,7 +18,7 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 I specialize in:
 
 <p style="font-size: 18px;"><strong>Frontend:</strong> 
-  HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30">, 
+  HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40">, 
   CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30">, 
   JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30">, 
   React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30">
