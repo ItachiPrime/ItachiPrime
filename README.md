@@ -1,4 +1,4 @@
-<div style="width:100%; height:100px; background-color:black;"></div>
+<div style="width:100%; height:100px; color:black;"></div>
 
 ### **💀  I'm Harshith** 
 Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
