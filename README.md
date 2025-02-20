@@ -45,10 +45,10 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 Here are some of my projects:
 
-- 🛍️ **[Fidgetsy](https://fidgetsy.shop)**: Full-stack E-commerce Store
-- 🎥 **[Cueclip](https://cueclip.netlify.app)**: SaaS Landing Page
-- 📊 **[Procalci](https://procalci.netlify.app)**: Profit Calculator for Stocks
-- 💰 **[DuinoI2C_ESP](https://duinoi2c.netlify.app)**: ESP Web Dashboard for <a href="https://duinocoin.com/" >DuinoCoin</a>
+- 🛍️ **[Fidgetsy](https://fidgetsy.shop)** : Full-stack E-commerce Store
+- 🎥 **[Cueclip](https://cueclip.netlify.app)** : SaaS Landing Page
+- 📊 **[Procalci](https://procalci.netlify.app)** : Profit Calculator for Stocks
+- 💰 **[DuinoI2C_ESP](https://duinoi2c.netlify.app)** : ESP Web Dashboard for <a href="https://duinocoin.com/" >DuinoCoin</a>
 ---
 
 ### 📫 **Let’s Connect**
