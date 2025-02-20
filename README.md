@@ -14,25 +14,94 @@ Welcome to my corner of the code world! I'm a passionate web developer always st
 
 ### 🚀 **Skills & Expertise**
 
-**Tech Stack**  
-I specialize in:
+# My Web Development Tech Stack 🚀
 
-<p style="font-size: 18px;"><strong>Frontend:</strong> 
-  HTML <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40">, 
-  CSS <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30">, 
-  JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35">, 
-  React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40">
-</p>
+<div align="center">
+  <h3>Welcome to my web development world! Here's my go-to tech stack for building awesome web applications.</h3>
+</div>
 
-<p style="font-size: 18px;"><strong>Backend:</strong> 
-  Firebase <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" width="30">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#html5">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#css3">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#javascript">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#typescript">
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#react">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#nextjs">
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#nodejs">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="#express">
+        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center"  width="96">
+      <a href="#mongodb">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center"  width="96">
+      <a href="#postgresql">
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#git">
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#docker">
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-<p style="font-size: 18px;"><strong>Tools:</strong> 
-  Git <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="30">, 
-  Figma <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20">, 
-  VS Code <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="30">
-</p>
+<div align="center">
+  <h3>Always learning and exploring new technologies! 💡</h3>
+</div>
 
 ---
 
