@@ -2,7 +2,7 @@
 <img src="pw1.png" />
 
 
-  <h2 align="center" >I'm Harshith</h2> 
+  <strong align="center" >I'm Harshith</strong> 
   <br>
   Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
 
