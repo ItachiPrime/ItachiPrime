@@ -1,10 +1,11 @@
 
 <img src="pw1.png" />
 
-<p align="center">
-  <h3>I'm Harshith</h3> <br>
+
+  <h3 align="center" >I'm Harshith</h3> 
+  <br>
   Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
-</p>
+
 
 ---
 
