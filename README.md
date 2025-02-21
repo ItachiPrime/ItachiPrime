@@ -1,5 +1,5 @@
 
-<img src="pw.png" />
+<img src="pw1.png" />
 
 ### **💀  I'm Harshith** 
 Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
