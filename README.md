@@ -54,10 +54,12 @@ Here are some of my projects:
 
 I’m always open to new ideas, collaborations, and opportunities to grow. Feel free to get in touch with me:
 
-- ✉️ **Email**: [harshith.ituc@gmail.com](mailto:harshith.ituc@gmail.com)
-- 📱 **Whatsapp**: [+916363492523](https://wa.me/6363492523)
-- 💬 **Discord**: [Chat Now!](https://discord.com/users/techno1016)
-
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
 ---
 
