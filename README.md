@@ -4,7 +4,7 @@
 
   <h3 align="center" style="border: none;" >I'm Harshith</h3> 
   <br>
-  Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
+  <p align="center" >Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.</p>
 
 
 ---
