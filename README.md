@@ -60,7 +60,7 @@
 <h3 align="center">📈GitHub Stats</h3>
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&disable_animations=false)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItachiPrime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
