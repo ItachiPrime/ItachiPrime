@@ -3,82 +3,66 @@
 
 
   <h3 align="center" style="border: none;" >I'm Harshith</h3> 
+  <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItachiPrime.ItachiPrime&left_color=black&right_color=aqua"  />
+  </div>
   <br>
-  <p align="center" >Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.</p>
+  <p align="center" >Welcome to my corner of the code world! I'm a passionate web developer always striving for simplicity, efficiency, and innovation.
+  </p>
 
 
----
+<h3 align="center" >🚀Tech Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
-### 🔍 **What I Do**
+<h3 align="center" >💼Projects</h3>
 
-- 💻 **Web Development**: From crafting beautiful user interfaces to building scalable backends, I bring ideas to life.
-- 🧠 **Continuous Learner**: Staying curious is at the heart of my work. I constantly evolve and adapt to new challenges.
-- 🎯 **Problem Solving**: Every project is an opportunity to improve and build impactful solutions.
+<div align="center">
+  <a href="https://fidgetsy.shop">
+    <img src="https://img.shields.io/badge/Fidgetsy-111111?style=for-the-badge&logo=shopify&logoColor=white">
+  </a>
+  <a href="https://vroom-mods.netlify.app">
+    <img src="https://img.shields.io/badge/Vroom--Mods-00A4CC?style=for-the-badge&logo=car&logoColor=white">
+  </a>
+  <a href="https://cueclip.netlify.app">
+    <img src="https://img.shields.io/badge/Cueclip-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://procalci.netlify.app">
+    <img src="https://img.shields.io/badge/Procalci-0077B5?style=for-the-badge&logo=chart-bar&logoColor=white">
+  </a>
+  <a href="https://duinoi2c.netlify.app">
+    <img src="https://img.shields.io/badge/DuinoI2C_ESP-E34F26?style=for-the-badge&logo=arduino&logoColor=white">
+  </a>
+</div>
 
----
+<h3 align="center" >📫Let’s Connect</h3>
 
-### 🚀 **Tech Stack**
-
-### **Frontend** 
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-
-### **Backend** 
-
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-### **Tools**
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-
-### **Other Skills**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
----
-
-### 💼 **Projects**
-
-Here are some of my projects:
-
-- 🛍️ **[Fidgetsy](https://fidgetsy.shop)** : Full-stack E-commerce Store
-- 🚗 **[Vroom-Mods](https://vroom-mods.netlify.app)** : Demo website for Vroom-Mods
-- 🎥 **[Cueclip](https://cueclip.netlify.app)** : SaaS Landing Page
-- 📊 **[Procalci](https://procalci.netlify.app)** : Profit Calculator for Stocks
-- 🕹️ **[DuinoI2C_ESP](https://duinoi2c.netlify.app)** : ESP Web Dashboard for <a href="https://duinocoin.com/" >DuinoCoin</a>
----
-
-### 📫 **Let’s Connect**
-
-I’m always open to new ideas, collaborations, and opportunities to grow. Feel free to get in touch with me:
-
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/techno1016"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
   <a href="mailto:harshith.ituc@gmail.com" /><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /></a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://wa.me/916363492523"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  /></a>
 </div>
 
----
+<h3 align="center">📈GitHub Stats</h3>
 
-### ⚡ **Fun Fact**
-
-When I’m not coding, I’m diving into the latest tech trends, learning new programming languages, and experimenting with different tech stacks. I believe in the power of learning and growing together, so feel free to reach out!
-
----
-
-### 📈 **GitHub Stats**
-
-![Harshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=chartreuse-dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItachiPrime&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItachiPrime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItachiPrime/ItachiPrime/output/github-snake-dark.svg" />
