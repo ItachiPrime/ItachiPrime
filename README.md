@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://fidgetsy.shop">
-    <img src="https://img.shields.io/badge/Fidgetsy-111111?style=for-the-badge&logo=shopify&logoColor=white">
+    <img src="https://img.shields.io/badge/Fidgetsy-32E875?style=for-the-badge&logo=shopify&logoColor=white">
   </a>
   <a href="https://vroom-mods.netlify.app">
     <img src="https://img.shields.io/badge/Vroom--Mods-00A4CC?style=for-the-badge&logo=car&logoColor=white">
