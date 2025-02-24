@@ -61,7 +61,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Itachi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItachiPrime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItachiPrime&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="195" alt="languages graph" />
 </div>
 
 
