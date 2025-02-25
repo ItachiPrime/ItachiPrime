@@ -11,7 +11,7 @@
   </p>
 
 
-<h3 align="center" >🚀Tech Stack</h3>
+<h3 align="center" >Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-<h3 align="center" >💼Projects</h3>
+<h3 align="center" >Projects</h3>
 
 <div align="center">
   <a href="https://fidgetsy.shop">
@@ -48,7 +48,7 @@
   </a>
 </div>
 
-<h3 align="center" >📫Let’s Connect</h3>
+<h3 align="center" >Let’s Connect</h3>
 
 <div align="center">
   <a href="https://discord.com/users/techno1016"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
@@ -57,7 +57,7 @@
   <a href="https://wa.me/916363492523"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  /></a>
 </div>
 
-<h3 align="center">📈GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ItachiPrime&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=issues" alt="Itachi's GitHub stats" height="150"/>
