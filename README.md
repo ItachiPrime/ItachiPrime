@@ -1,5 +1,5 @@
 
-<img src="pw1.png" />
+<img src="pw.png" />
 
   <h3 align="center" style="border: none;" >I'm Harshith</h3> 
   <div align="center">
