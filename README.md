@@ -1,7 +1,6 @@
 
 <img src="pw1.png" />
 
-
   <h3 align="center" style="border: none;" >I'm Harshith</h3> 
   <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ItachiPrime.ItachiPrime&left_color=black&right_color=springgreen"  height="20px"/>
