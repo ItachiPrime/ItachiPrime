@@ -39,8 +39,8 @@
   <a href="https://vroom-mods.netlify.app">
     <img src="https://img.shields.io/badge/Vroom--Mods-00A4CC?style=for-the-badge&logo=car&logoColor=white">
   </a>
-  <a href="https://procalci.netlify.app">
-    <img src="https://img.shields.io/badge/Procalci-0077B5?style=for-the-badge&logo=chart-bar&logoColor=white">
+  <a href="https://chef-grok.netlify.app">
+    <img src="https://img.shields.io/badge/Chef--Grok-FFFFFF?style=for-the-badge&logo=codechef&logoColor=black">
   </a>
   <a href="https://duinoi2c.netlify.app">
     <img src="https://img.shields.io/badge/DuinoI2C_ESP-E34F26?style=for-the-badge&logo=arduino&logoColor=white">
